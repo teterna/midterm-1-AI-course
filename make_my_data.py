@@ -1,6 +1,6 @@
 """Midterm 1 data generator: CSS4007 Artificial Intelligence, Narxoz University.
 
-    python make_my_data.py --github YOUR_GITHUB_USERNAME --code SESSION_CODE
+    python make_my_data.py --github teterna --code ZEBRA-28
 
 Writes your personal exam data to ./my_data/ (two CSV files and DATA.md). The same
 username and code always give byte-identical files, on any machine and any Python >= 3.9.
