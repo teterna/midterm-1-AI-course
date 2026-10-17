@@ -1,0 +1,13 @@
+pipeline,lang,condition,n_docs,n_correct
+H,EN,clean,30,30
+H,EN,degraded,30,26
+H,RU,clean,30,28
+H,RU,degraded,30,25
+H,KK,clean,30,28
+H,KK,degraded,30,22
+L,EN,clean,30,28
+L,EN,degraded,30,24
+L,RU,clean,30,27
+L,RU,degraded,30,22
+L,KK,clean,30,26
+L,KK,degraded,30,20
